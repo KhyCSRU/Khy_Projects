@@ -1,7 +1,7 @@
 all: build
 
 binaries:
-	gcc 203005542_assignment1.c -o shell 
+	gcc RUCassignment1.c -o shell 
 	./shell
 build: binaries
 	@echo "Building"
