@@ -1,6 +1,6 @@
 /*
         Assignment 1 Basic OS implementation
-        Khylei Neal -- RUID: 203005542
+        Khylei Neal --
 
         Functions:
                     help_cmd - This function prints a help menu
