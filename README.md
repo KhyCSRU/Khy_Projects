@@ -5,3 +5,5 @@
 # My GIS project give basic demographic information for 100+ cities given in a file, I am working with the networkx library to make a funtion that will allow me to utilize nodes to display the cities with population.
 
 # Working on a snake game in both python and C
+
+# Basic implementation of an OS shell should be used in a linux based system do to libraries used 
