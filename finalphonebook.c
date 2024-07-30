@@ -2,7 +2,7 @@
     Final Project: Phonebook
     In this program, we worked together as a group to make an interactive, formatted phone book, that will allow you to search, edit, add, and print different contacts
 
-    Authors: Khylei, Shiv, Hu
+    Authors: Khylei, Shiv, Hu 
 
 */
 
