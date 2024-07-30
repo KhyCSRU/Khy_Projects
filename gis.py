@@ -1,6 +1,5 @@
 """
     Author: Khylei Neal
-    RUID: 203005542
     This program will take in basic geographic data on 128 cities in North America, then respond with the information about those cities.
 """
 from sys import argv
