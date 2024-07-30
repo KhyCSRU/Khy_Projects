@@ -1,3 +1,4 @@
+#USE FOR COMMAND LINE PROJECY
 all: build
 
 binaries:
