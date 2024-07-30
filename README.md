@@ -6,3 +6,7 @@
 
 # Basic implementation of an OS shell should be used in a linux based system do to libraries used 
 
+# A series of different Markovs Chain Monte Carlo python implementations. These are techniques used to sample from complex probability distributions, especially when direct sampling is difficult
+
+# Project that displays a basic use and understanding of pandas library used to handle data sets. 
+
